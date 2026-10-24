@@ -83,18 +83,3 @@ Aucun prérequis ni installation de Python ne sont nécessaires :
 3. Lancez l'assistant et suivez les instructions.
 4. Démarrez **EduForms** directement depuis le Menu Démarrer ou le raccourci Bureau !
 
-### Option B : Exécution depuis les sources (Développeurs)
-```bash
-# 1. Cloner le dépôt
-git clone https://github.com/cryzo-py/EduForms.git
-cd EduForms
-
-# 2. Créer et activer un environnement virtuel
-python -m venv .venv
-.venv\Scripts\activate
-
-# 3. Installer les dépendances
-pip install -r requirements.txt
-
-# 4. Lancer l'application
-python run.py
