@@ -1,0 +1,78 @@
+CONTRAT DE LICENCE UTILISATEUR FINAL (CLUF)
+LICENCE PROPRIÉTAIRE GRATUITE (FREEWARE)
+
+Logiciel : EduForms
+Version : 1.0.0
+Auteur et Titulaire exclusif des Droits : Fares Bel Haj Ali
+Contact : belhadj.fares@gmail.com
+Dépôt officiel : https://github.com/cryzo-py/EduForms
+Droits d'auteur (c) 2026 Fares Bel Haj Ali. Tous droits réservés.
+
+================================================================================
+IMPORTANT - VEUILLEZ LIRE ATTENTIVEMENT CE CONTRAT :
+En téléchargeant, installant ou utilisant le logiciel EduForms (ci-après le 
+« Logiciel »), vous acceptez d'être lié par l'ensemble des termes et conditions 
+de la présente licence. Si vous n'acceptez pas ces conditions, n'installez pas 
+et n'utilisez pas ce Logiciel.
+================================================================================
+
+1. PROPRIÉTÉ INTELLECTUELLE ET DROITS D'AUTEUR
+   Le Logiciel est protégé par le Code de la propriété intellectuelle et les traités 
+   internationaux relatifs au droit d'auteur.
+   - Fares Bel Haj Ali est et demeure l'unique et exclusif titulaire de l'ensemble 
+     des droits moraux et patrimoniaux sur le Logiciel, incluant sans limitation 
+     le code source, l'architecture, la charte graphique, les icônes, les formulaires 
+     modèles et la documentation associée.
+   - LE CODE SOURCE DU LOGICIEL N'EST PAS FOURNI ET RESTE STRICTEMENT PRIVÉ. 
+     Aucun droit de consultation, copie, divulgation ou modification du code 
+     source n'est concédé.
+
+2. CONCESSION DE LICENCE (UTILISATION GRATUITE)
+   L'Auteur accorde à tout utilisateur final une licence personnelle, mondiale, 
+   gratuite (freeware), non-exclusive, non-transférable et révocable d'installation 
+   et d'exécution du Logiciel sous sa forme binaire exécutable officielle pour :
+   - Un usage personnel, associatif, académique ou pédagogique (écoles, collèges, 
+     lycées, universités, centres de formation) ;
+   - Un usage interne au sein d'organisations ou d'entreprises pour la conception, 
+     la collecte et l'analyse de formulaires et enquêtes en environnement local hors-ligne.
+
+3. RESTRICTIONS ET INTERDICTIONS FORMELLES
+   L'utilisateur s'interdit formellement de :
+   - Décompiler, désassembler, analyser par rétro-ingénierie (reverse engineering) 
+     ou tenter de reconstituer le code source du Logiciel ;
+   - Modifier, altérer, fusionner, adapter, traduire ou créer des œuvres dérivées 
+     à partir de tout ou partie du Logiciel ;
+   - Supprimer, masquer ou modifier les mentions de réserve de droits, de copyright, 
+     les signatures numériques, les marques ou les crédits de l'Auteur apparaissant 
+     dans le Logiciel, l'interface ou les fichiers d'aide ;
+   - Monétiser, vendre, revendre, louer, sous-licencier, louer avec option d'achat 
+     ou exploiter commercialement le Logiciel ou son installateur.
+
+4. REDISTRIBUTION
+   - La redistribution payante du Logiciel sous quelque forme que ce soit (ventes groupées, 
+     supports physiques payants, téléchargements payants) est strictement interdite.
+   - La redistribution gratuite du paquet d'installation officiel original et non altéré 
+     (tel que diffusé sur le dépôt GitHub officiel de l'Auteur) est autorisée, sous réserve 
+     expresse de préserver l'intégralité du présent contrat de licence et les mentions 
+     de paternité au nom de Fares Bel Haj Ali.
+
+5. PROTECTION DE LA VIE PRIVÉE ET STOCKAGE LOCAL
+   EduForms fonctionne selon le paradigme « Offline-First » : l'intégralité des données, 
+   formulaires, questions et réponses collectées est stockée localement sur la machine 
+   de l'utilisateur au sein d'une base de données SQLite chiffrable et sécurisée. 
+   Aucune donnée personnelle n'est transmise, collectée ni téléversée vers des serveurs 
+   tiers ou dans le Cloud à l'insu de l'utilisateur.
+
+6. EXCLUSION DE GARANTIE ET LIMITATION DE RESPONSABILITÉ
+   Le Logiciel est fourni « EN L'ÉTAT » (« AS IS »), sans garantie d'aucune sorte, 
+   expresse ou implicite, y compris mais sans s'y limiter les garanties de qualité marchande, 
+   d'adéquation à un usage particulier ou d'absence de contrefaçon.
+   En aucun cas Fares Bel Haj Ali ne pourra être tenu responsable des préjudices directs, 
+   indirects, fortuits, exemplaires ou consécutifs (notamment perte de données, interruption 
+   d'activité, perte d'exploitation) survenant lors de l'utilisation ou de l'incapacité 
+   d'utiliser le Logiciel.
+
+================================================================================
+Tous les droits non expressément concédés par la présente licence sont réservés 
+exclusivement par Fares Bel Haj Ali.
+================================================================================
